@@ -1,9 +1,12 @@
-# botline
+55# botline
 
 
 apt update
+
 apt upgrade
+
 pkg install python
+
 pkg install zip 
 pip3 install six
 pip3 install requests
