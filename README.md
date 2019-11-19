@@ -1,5 +1,3 @@
-# botline
-
 apt update
 
 apt upgrade
